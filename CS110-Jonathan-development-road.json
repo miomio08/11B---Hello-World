@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "id": "697deb82-52b1-4491-b1b0-84e9feee1204",
+  "updated": 1793921881874,
+  "step": 14,
+  "fields": {
+    "lecture.name": "Jonathan",
+    "lecture.openingQuestion": "How to choose what the best course of action is when choosing the programming language ",
+    "recall.pastEvidence": "In previous projects, I have acted as a team leader. This means that I have appointed team tasks and delegated when we have questions or problems. I have also contributed to the coding of the projects and picked up where we might have left off or where we needed more help.",
+    "recall.repo": "https://github.com/jonathan0611p/7B",
+    "recall.recap": "When I think of classes, objects, data, and actions in C#. Like in a game a class is the character blueprint, the object is the actual character, the data is what the character has like health, name, level. The actions are the actions the character does.",
+    "recall.questions": "How can we change the language of a website so that others can read it? - In <html lang= \"eng\" > add what language you wanna see.",
+    "pipelines.notes": "There are 3 pipelines that help with the creator mindset. The pipelines are; Important info. , The beginning, and Storytelling.",
+    "pipelines.opinion": "I agree with the idea that we should wear two hats so that we can use our tools and our creativity. Just like when thinking about building a robot, I know what I want it to look like and do but the I have to make it actually do it.",
+    "pipelines.application": "1. Story --> 2. Program --> 3.Test\nThe character goes to the enchanted forest\npublic void Search ( 10 block radius)\n      radius.Search = Dragon found\nIf the dragon is found what can be done with it, if it adds to the story then move foward if it doesnt then rework.",
+    "pipelines.question": "How can we make a radius that highlights what the character can see?",
+    "attention.notes": "The idea of the chapter is that Attention matters and how we can capture the attention of the views we are in \"control\" we can guide them to what we want them to see, feel and do. There is 3 questions that we ask, and time threshold.",
+    "attention.opinion": "I agree with the chapter because even in other forms of entertainment engagement is important, if you can keep someone you can keep them in your world, and at the end of the day thats how you can make money and grow a community.",
+    "attention.application": "An attention leak in a previous work is the movie slide show, the visuals were not there. The slides looked boring and bland so if someone was to look at it they would not be captivated and encouraged to stay and navigate the rest of the slides.",
+    "attention.question": "How can i survey if the visuals are engaging and adpt from it.",
+    "summit.direction": "Lead an idea",
+    "agreement.team": "Hello World",
+    "agreement.lead": "Jonathan",
+    "agreement.members": "Paul- asks the question and is not afraid to keep questioning everything\nIsaias- has a high level of understanding in coding and is very skilled with the language, has many ideas.\nMio- bring creativity and composure to a team and offers much helps when \nAI- helps support with understanding of concept where we lack\n",
+    "identity.notes": "We are our ideas and we have to keep progressing to evolve those ideas. When we keep working on ourselves we keep moving foward. ",
+    "summit.mission": "I want to explore creating a new world, a hello world, where we can create games with a story and lore that can expand our creativity. A Roleplaying game where we can combine science fiction and medieval times, I want a dragon controlled by a hyper robot. I want to explore creativity.",
+    "summit.pitch": "The purpose i think that I have is to understand what we are doing and keep on learning even when I feel lost, I wanna keep on learning about coding and all of its parts. I bring my leading experiences and my capability to delegate what, when, where and who. I need help in progressing my coding knowledge but keep on working in my skills",
+    "summit.conversations": "I have spoken with Isaias and have talked about how we can combine ideas and work together to move forward. Seeing his knowledge of coding and eagerness to learn is something id want in my team.\n\nI have spoken with Mio and have seen how she values creativity and organization, something that I value when thinking about a team.\n\nI have spoken with Paul and talked about his ability to always ask question and not care about stopping the flow in order to help himself and others understand.\n\n",
+    "agreement.bookUse": "Tool vs Team Member\n- helps me identify when i need to step forward and when/what i can offer to my team.\nHierarchy of creativity autonomy \n- We have to be able to understand when the creativity matters more and when it needs to take the backpedal",
+    "agreement.contact": "Our work will live in github and discord/instagram, to be able to communicate with each other. We will be able to communicate and reach out when things need to be done or fixed.",
+    "agreement.teamRepo": "https://github.com/miomio08/11B---Hello-World",
+    "accord.purpose": "Game: Sharksweeper\nGoal: Find all safe spaces without clicking on a shark\nPlayer Action: Click a tile\nCondition: Check whether the tile contains a shark\nVisible consequence: A safe tile reveals a number; a shark ends the game.",
+    "accord.attention": "Focus on one feature at a time and test click my work after making changes",
+    "accord.time": "Create a game\nFix and see the bugs in the game that need to be fixed\nIn github, give task and set time frames to be done\nSubmit",
+    "accord.boardMeaning": "The payer clicks tiles to reveal info. and try to find all sharks\nUse GODOT and C# \nWe split up the task;"
+  },
+  "boards": {},
+  "prefs": {
+    "auto": true,
+    "sound": false,
+    "light": false,
+    "volume": 0.2
+  },
+  "timer": {
+    "step": "report",
+    "total": 600,
+    "left": 600,
+    "running": false,
+    "deadline": null
+  }
+}
